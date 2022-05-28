@@ -1,9 +1,6 @@
-package LAB_4;
+package LAB_4.Part1;
 
-import javax.swing.*;
-import java.awt.*;
-
-public class App {
+public class Pyramid {
     public static void main(String...args){
         Model model = new Model();
         model.create();
